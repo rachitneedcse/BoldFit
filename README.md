@@ -58,7 +58,6 @@ BoldFit-Agent/
 ├── inventory.xlsx         # Input dataset
 ├── forecast_results.csv   # Generated forecast output
 ├── founder_summary.txt    # LLM-generated business summary
-├── .env                   # API & email secrets (not committed)
 └── README.md              # This file
 ```
 
