@@ -1,0 +1,34 @@
+SKU,StockLeft,AvgDailySales,DaysUntilStockout,Recommended Reorder Qty,PO Email,Supplier
+P98420,97,10.27,9.4,246,"**Subject:** Purchase Order – SKU P98420 / Qty 246  
+
+Dear Global Parts Team,
+
+Please accept this purchase order for 246 units of SKU P98420.  
+We request delivery within 7 business days and would appreciate a confirmation of receipt and expected arrival date.  
+
+Thank you for your prompt attention.
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Contact Information]",Global Parts
+P70372,229,9.93,23.1,0,,SupplyCo
+P54851,15,8.93,1.7,178,"**Subject:** Purchase Order – SKU P54851 – Qty 178  
+
+Dear Global Parts Team,
+
+Please find below the details of the purchase order for the item listed.  
+SKU: **P54851** – Quantity: **178 units**.  
+Kindly confirm receipt and advise the expected delivery date.  
+Please issue the invoice to the billing address shown below.  
+
+Thank you for your prompt attention.
+
+Sincerely,  
+[Your Name]  
+[Your Title]  
+[Your Company]  
+[Phone] | [Email]",Global Parts
+P89338,35,1.63,21.4,0,,Global Parts
+P76449,442,9.37,47.2,0,,DirectGoods

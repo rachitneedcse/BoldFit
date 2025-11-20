@@ -1,0 +1,6 @@
+**Founder's Office Brief (Forecast Outlook)**  
+1. **Critical SKUs** – P54851 is at risk (1.7 days to stockout); P98420 follows (9.4 days).  
+2. **Reorder urgency** – P54851 requires 178 units immediately; P98420 needs 246 units.  
+3. **Supplier load** – Global Parts handles 424 units (highest reorder volume); SupplyCo and DirectGoods have no pending orders.  
+4. **Cost outlook** – UnitCost data missing; total reorder cost cannot be computed.  
+5. **Action items** – Confirm Global Parts PO receipt, expedite delivery, and secure next‑stock replenishment for P54851.
